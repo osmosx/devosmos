@@ -6860,7 +6860,7 @@ button.bg-dark:focus {
 }
 
 .border-secondary {
-  border-color: #6c757d !important;
+  border-color: rgb(5, 255, 5) !important;
 }
 
 .border-success {

@@ -72,11 +72,6 @@ h1:hover {
   color: rgb(5, 255, 5);
 }
 
-.icon-facebook {
-  background-color: aquamarine;
-
-}
-
 a {
   color: rgb(5, 255, 5);
 
@@ -93,6 +88,15 @@ a:hover {
 
 }
 
+hr {
+  color: red;
+  background-color: rgb(5, 255, 5);;
+}
+
+.place {
+  background-color: rgb(0, 0, 0);
+  height: 400px;
+}
 
 
 
