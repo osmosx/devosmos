@@ -2890,14 +2890,14 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-success {
-  color: #28a745;
-  border-color: #28a745;
+  color: rgb(5, 255, 5);
+  border-color: rgb(5, 255, 5);
 }
 
 .btn-outline-success:hover {
   color: #fff;
-  background-color: #28a745;
-  border-color: #28a745;
+  background-color:rgb(16, 233, 16);
+  border-color: rgb(16, 233, 16);
 }
 
 .btn-outline-success:focus, .btn-outline-success.focus {
