@@ -12,6 +12,7 @@
   <link rel="stylesheet" href="css/bootstrap.css.map">
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/animate.min.css">
+  <link rel="stylesheet" href="css/ekko-lightbox.css">
   <title>DevOSMOS</title>
 </head>
 
@@ -24,10 +25,10 @@
         aria-controls="navbarNav" aria-expanded="false" aria-label="Переключатель навигации">
         <span class="navbar-toggler-icon"></span>
       </button>
-      <div class="collapse navbar-collapse justify-content-start" id="navbarNav">
+      <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item mr-5">
-            <a class="nav-link" href="index.html">Главная <span class="sr-only">(текущая)</span></a>
+            <a class="nav-link" href="index.html">Главная</a>
           </li>
           <li class="nav-item mr-5 ">
             <a class="nav-link" href="portfolio.html">Портфолио</a>
@@ -43,6 +44,7 @@
     </nav>
   </div>
   <!-- End Nav -->
+
   <!-- Header Start -->
   <header>
     <div class="container-fluid">
@@ -54,61 +56,92 @@
     </div>
   </header>
   <!-- Header End -->
+
   <!-- Portfolio Start -->
+  <div class="container-fluid bg-dark border-bottom border-secondary">
+    <div class="row justify-content-center">
+      <div class="col-md-10 mt-2 mb-2 ">
+        <div class="row">
+          <a href="https://unsplash.it/1200/768.jpg?image=250" data-toggle="lightbox" data-footer="Мой любимы проект"
+            data-gallery="example-gallery" class="col-sm-4 mb-3">
+            <img src="https://unsplash.it/600.jpg?image=250" class="img-fluid">
+          </a>
+          <a href="https://unsplash.it/1200/768.jpg?image=250" data-toggle="lightbox" data-footer="Мой любимы проект"
+            data-gallery="example-gallery" class="col-sm-4">
+            <img src="https://unsplash.it/600.jpg?image=250" class="img-fluid">
+          </a>
+          <a href="https://unsplash.it/1200/768.jpg?image=250" data-toggle="lightbox" data-footer="Мой любимы проект"
+            data-gallery="example-gallery" class="col-sm-4">
+            <img src="https://unsplash.it/600.jpg?image=250" class="img-fluid">
+          </a>
 
+        </div>
+        <div class="row">
+          <a href="https://unsplash.it/1200/768.jpg?image=250" data-toggle="lightbox" data-footer="Мой любимы проект"
+            data-gallery="example-gallery" class="col-sm-4 mb-2">
+            <img src="https://unsplash.it/600.jpg?image=250" class="img-fluid">
+          </a>
+          <a href="https://unsplash.it/1200/768.jpg?image=250" data-toggle="lightbox" data-footer="Мой любимы проект"
+            data-gallery="example-gallery" class="col-sm-4">
+            <img src="https://unsplash.it/600.jpg?image=250" class="img-fluid">
+          </a>
+          <a href="https://unsplash.it/1200/768.jpg?image=250" data-toggle="lightbox" data-footer="Мой любимы проект"
+            data-gallery="example-gallery" class="col-sm-4">
+            <img src="https://unsplash.it/600.jpg?image=250" class="img-fluid">
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
 
-<!-- Portfolio End -->
+  <!-- Portfolio End -->
 
 
   <!-- Footer Start -->
-    <footer>
-      <div class="container-fluid bg-dark text-center shadow" id="contacts">
-        <div class="row justify-content-end">
-          <div class="col-md-3 col-sm-12 mt-2 text-left"> Если Вам нужен сайт, есть интересные идеи, или Вы хотите
-            совместно поработать, я открыт к сотрудничеству.</div>
-          <div class="col-md-1 mt-2 col-sm-3 offset-sm-0 offset-md-4"><a href="https://t.me/osmos7" target="_blank"><i
-                class="bi bi-telegram" style="font-size: 60px;"></i></a></div>
-          <div class="col-md-1 col-sm-3 mt-2"><a href="https://github.com/osmosx" target="_blank"><i class="bi bi-github"
-                style="font-size: 60px;"></i></a></div>
-          <div class="col-md-1  col-sm-3 mt-2"><a href="https://www.facebook.com/ch3rnyavskiy" target="_blank"><i
-                class="bi bi-facebook" style="font-size: 60px;"></i></a></div>
-          <div class="col-md-1 col-sm-3 mt-2"><a href="https://www.instagram.com/ch3rnyavskiy/" target="_blank"><i
-                class="bi bi-instagram" style="font-size: 60px;"></i></a></div>
-          <div class="col-md-1 col-sm-12 mt-2 mb-2 text-left">
-            <div><a href="index.html">Главная</a></div>
-            <div><a href="portfolio.html">Портфолио</a></div>
-            <div><a href="#contacts">Контакты</a></div>
-            <div><a href="blog.html">Блог</a></div>
-          </div>
-        </div>
-        <div class="divider mb-3"> </div>
-        <div class="row" style="font-size:10px;">
-          <div class="col-md-12 col-sm-12 col-xs-12 text-center mb-3">
-            <div>
-              <span>© 2021 Denis Chernyavskiy All Rights Reserved </span>
-            </div>
-          </div>
+  <footer>
+    <div class="container-fluid bg-dark text-center shadow" id="contacts">
+      <div class="row justify-content-end">
+        <div class="col-md-3 col-sm-12 mt-4 text-left"> Если Вам нужен сайт, есть интересные идеи, или Вы хотите
+          совместно поработать, я открыт к сотрудничеству.</div>
+        <div class="col-md-1 col-sm-3 mt-2 offset-sm-0 offset-md-4"><a href="https://t.me/osmos7" target="_blank"><i
+              class="bi bi-telegram" style="font-size: 60px;"></i></a></div>
+        <div class="col-md-1 col-sm-3 mt-2"><a href="https://github.com/osmosx" target="_blank"><i class="bi bi-github"
+              style="font-size: 60px;"></i></a></div>
+        <div class="col-md-1 col-sm-3 mt-2"><a href="https://www.facebook.com/ch3rnyavskiy" target="_blank"><i
+              class="bi bi-facebook" style="font-size: 60px;"></i></a></div>
+        <div class="col-md-1 col-sm-3 mt-2"><a href="https://www.instagram.com/ch3rnyavskiy/" target="_blank"><i
+              class="bi bi-instagram" style="font-size: 60px;"></i></a></div>
+        <div class="col-md-1 col-sm-12 mt-2 mb-2 text-left">
+          <div><a href="index.html">Главная</a></div>
+          <div><a href="portfolio.html">Портфолио</a></div>
+          <div><a href="#contacts">Контакты</a></div>
+          <div><a href="blog.html">Блог</a></div>
         </div>
       </div>
+      <div class="divider mb-3"> </div>
+      <div class="row" style="font-size:10px;">
+        <div class="col-md-12 col-sm-12 col-xs-12 text-center mb-3">
+          <div>
+            <span>© 2021 Denis Chernyavskiy All Rights Reserved </span>
+          </div>
+        </div>
       </div>
-      </div>
-    </footer>
+    </div>
+    </div>
+    </div>
+  </footer>
   <!-- Footer END -->
-
-
 
   <script src="js/animate.js"></script>
   <script src="js/jquery-3.6.0.min.js"></script>
   <script src="js/bootstrap.js"></script>
+  <script src="js/ekko-lightbox.min.js"></script>
   <script>
-
-    $(document).on("click", '[data-toggle="lightbox"]', function(event) {
+    $(document).on('click', '[data-toggle="lightbox"]', function (event) {
       event.preventDefault();
       $(this).ekkoLightbox();
     });
-
-      </script>
-
+  </script>
 </body>
 
 </html>
