@@ -33,7 +33,7 @@
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/osmosx" target="_blank">Author</a>
 </p>
 
 <br>
@@ -46,7 +46,7 @@
 
 :heavy_check_mark: 1. Это версия проекта 1.0, планирую его развивать в будущем.\
 :heavy_check_mark: 2. Нужна помощь с созданием нормального блога.\
-:heavy_check_mark: 3. Буду рад обратной связи и любому участию в этом проекте.
+:heavy_check_mark: 3. Буду рад обратной связи и любому участию в этом проекте.\
 :heavy_check_mark: 4. Странице 404 требуется доработка.
 
 ## :rocket: Technologies ##
