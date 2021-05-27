@@ -9,11 +9,11 @@
 <h1 align="center">DevOSMOS</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{osmosx}}/_projects?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/osmosx/devosmos?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{osmosx}}/_projects?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/osmosx/devosmos?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{osmosx}}/_projects?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/osmosx/devosmos?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/_projects?color=56BEB8" /> -->
 
@@ -67,7 +67,7 @@
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file. -->
 
 
-Made with :heart: by <a href="https://github.com/{{osmosx}}" target="_blank">{{Denis Chernyavskiy}}</a>
+Made with :heart: by <a href="https://github.com/osmosx" target="_blank">Denis Chernyavskiy</a>
 
 &#xa0;
 
