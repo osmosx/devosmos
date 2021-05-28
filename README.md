@@ -40,14 +40,14 @@
 
 ## :dart: About ##
 
-Всем привет! Это мой первый проект в качестве Frontend разработчика. И изначально он создавался для итогового экзамена. Он представляет из себя сайт-визитку с галереей-портфолио и блогом.
+Всем привет! Это мой первый проект в качестве Frontend разработчика. Он создавался для итогового экзамена по курсу "Разработка web-ресурса с использованием технологий HTML, CSS, JavaScript, jQuery" в ГБОУ ДПО Центр Профессионал. Проект представляет из себя сайт-визитку с галереей-портфолио и блогом.
 
 ## :sparkles: Features ##
 
 :heavy_check_mark: 1. Это версия проекта 1.0, планирую его развивать в будущем.\
 :heavy_check_mark: 2. Нужна помощь с созданием нормального блога.\
 :heavy_check_mark: 3. Буду рад обратной связи и любому участию в этом проекте.\
-:heavy_check_mark: 4. Странице 404 требуется доработка.
+:heavy_check_mark: 4. Странице 404 требуется доработка, ну или и так сойдет.
 
 ## :rocket: Technologies ##
 
@@ -67,7 +67,7 @@
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file. -->
 
 
-Made with :heart: by <a href="https://github.com/osmosx" target="_blank">Denis Chernyavskiy</a>
+by <a href="https://github.com/osmosx" target="_blank">Denis Chernyavskiy</a>
 
 &#xa0;
 
