@@ -1,9 +1,3 @@
-<!-- <div align="center" id="top">
-  <img src="./.github/app.gif" alt="DevOSMOS" /> -->
-
-  <!-- &#xa0; -->
-
-  <!-- <a href="https://_projects.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">DevOSMOS</h1>
@@ -15,11 +9,6 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/osmosx/devosmos?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/_projects?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/_projects?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/_projects?color=56BEB8" /> -->
 </p>
 
 <h4 align="center">
@@ -27,16 +16,6 @@
 </h4>
 
 <hr>
-
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0;
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/osmosx" target="_blank">Author</a>
-</p>
-
-<br>
 
 ## :dart: About ##
 
